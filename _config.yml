@@ -1,5 +1,8 @@
+name: FREE - STATE
+favicon: null
+layout_spectrum: 0.9249578
+typography_spectrum: 0.4182125
 title: A State Of Mind. A State Of Existence.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3094435
-  brandStrength: 0.8468085
-  lightness: 0.7344013
   brandColors:
     - '#BDC7C6'
     - '#909188'
     - '#3A4142'
     - '#A4425C'
     - '#FA6380'
-  rhythmicContrast: 0.8870152
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: FREE - STATE
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4182125
-layout_spectrum: 0.9249578
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 1
+purpose: []
