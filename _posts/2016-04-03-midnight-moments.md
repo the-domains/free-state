@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Midnight Moments.
-datePublished: '2016-04-03T18:20:22.832Z'
-dateModified: '2016-04-03T18:18:51.467Z'
+datePublished: '2016-04-03T18:20:42.808Z'
+dateModified: '2016-04-03T18:20:30.882Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-midnight-moments.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-midnight-moments.md
-published: true
 url: midnight-moments/index.html
 _type: Article
 
