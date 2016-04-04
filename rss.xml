@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[A State Of Mind. A State Of Existence.]]></title>
         <description><![CDATA[A State Of Mind. A State Of Existence.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/free-state/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 18:35:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 15:22:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/free-state/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/free-state/798c13cc-b2eb-4631-a5d7-b0dfcd3a33bd/index.html</link>
+            <guid isPermaLink="false">798c13cc-b2eb-4631-a5d7-b0dfcd3a33bd</guid>
+            <pubDate>Mon, 04 Apr 2016 15:22:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44da775b-828c-40dd-aa2d-0a14ca8aedfe.jpg">]]></description>
-            <link>undefined7dc4390c-0ffb-4511-a970-d88263e9a1ca/index.html</link>
+            <link>https://thegrid.ai/free-state/7dc4390c-0ffb-4511-a970-d88263e9a1ca/index.html</link>
             <guid isPermaLink="false">7dc4390c-0ffb-4511-a970-d88263e9a1ca</guid>
             <pubDate>Sun, 03 Apr 2016 18:34:49 GMT</pubDate>
         </item>
